@@ -1,0 +1,48 @@
+html{
+    height: 100%;
+    width: 100%;
+}
+
+body{
+    height: 100%;
+    width: 100%;
+    
+}
+.container {
+    display:flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    height: 100%;
+    width: 100%;
+    padding:50px;
+}
+
+.game-container {
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    border: 1px solid black;
+    width: 30rem;
+    height: 45rem;
+    margin-top: 10rem;
+    padding-bottom: 8rem;
+}
+
+.box{
+    border: 1px solid black;
+    height: 100px;
+    width: 100px;
+    margin: 20px;
+}
+
+.box16 {
+    width: 80%;
+}
+
+.get-change {
+    width: 20rem;
+    height: 45rem;
+    margin-top: 10rem;
+}
+
