@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="382" height="102" inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)" sodipodi:docname="coffeetray.svg" version="1.1" viewBox="0 0 101.07 26.987" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="filter982" x="-7.3523e-7" y="-3.2621e-6" width="1" height="1" color-interpolation-filters="sRGB" inkscape:collect="always">
+   <feGaussianBlur inkscape:collect="always" stdDeviation="2.2122957e-05"/>
+  </filter>
+ </defs>
+ <sodipodi:namedview id="base" bordercolor="#666666" borderopacity="1.0" inkscape:current-layer="layer14" inkscape:cx="148.36764" inkscape:cy="25.366197" inkscape:document-rotation="0" inkscape:document-units="px" inkscape:object-paths="true" inkscape:pagecheckerboard="false" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:snap-bbox="true" inkscape:snap-global="false" inkscape:snap-nodes="false" inkscape:window-height="1017" inkscape:window-maximized="1" inkscape:window-width="1920" inkscape:window-x="-8" inkscape:window-y="-8" inkscape:zoom="2.8" pagecolor="#ffffff" showgrid="true" showguides="false" units="px">
+  <sodipodi:guide orientation="0,382" position="0,26.98716"/>
+  <sodipodi:guide orientation="102,0" position="101.06956,26.98716"/>
+  <sodipodi:guide orientation="0,-382" position="101.06956,0"/>
+  <sodipodi:guide orientation="-102,0" position="0,0"/>
+  <inkscape:grid enabled="true" gridanglex="30.1" gridanglez="30" originx="50.587696" originy="14.41961" snapvisiblegridlinesonly="false" spacingy="8.33427" type="axonomgrid" units="px" visible="true"/>
+ </sodipodi:namedview>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g inkscape:groupmode="layer" inkscape:label="allwalls for now 1">
+  <path d="m0.057282 24.584 14.348-8.4093 72.177-0.13667 14.447 8.5397z" fill="#78a899" sodipodi:nodetypes="cccccc"/>
+  <path d="m14.406-0.093543 0.18709 16.277h72.028v-16.277z" fill="#5c8275" filter="url(#filter982)" sodipodi:nodetypes="ccccc"/>
+  <path d="m0-0.093543v24.976l14.873-8.7931-0.18709-16.37z" fill="#adceac"/>
+  <path d="m86.434 0 0.09355 16.089 14.593 8.7931v-24.976z" fill="#adceac" stroke-opacity="0"/>
+  <path d="m0.029525 26.977-0.0065829-2.4319 101.06 4.57e-4 -7e-3 2.4341c-36.411 0.37644-101-0.00596-101.04-0.00264z" fill="#5c8275" sodipodi:nodetypes="cccccc"/>
+ </g>
+</svg>
